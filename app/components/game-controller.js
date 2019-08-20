@@ -7,6 +7,7 @@ function draw() {
   let template =
     <div class="card">
       <h2>${target.name}</h2>
+
       <h4>Health: ${target.health}</h4>
     </div>
 
